@@ -17,5 +17,10 @@ namespace WindowsFormsApplication1
             Class1 cl = new Class1();
             cl.MainRun();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("33333");
+        }
     }
 }

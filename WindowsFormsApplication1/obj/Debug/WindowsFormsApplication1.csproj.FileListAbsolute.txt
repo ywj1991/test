@@ -6,3 +6,5 @@ D:\1练习资料\Socket同步\WindowsFormsApplication1\WindowsFormsApplication1\
 D:\1练习资料\Socket同步\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\1练习资料\Socket同步\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 D:\1练习资料\Socket同步\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\1练习资料\Socket同步\test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\1练习资料\Socket同步\test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
